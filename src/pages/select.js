@@ -1,6 +1,6 @@
 function Select() {
     return (
-        <div>text 3</div>
+        <div></div>
     );
 }
 
