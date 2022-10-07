@@ -1,4 +1,5 @@
 function Form() {
+<<<<<<< HEAD
 
     function inputDate(e) {
         e.preventDefault();
@@ -24,6 +25,10 @@ function Form() {
                 </section>
             </main>
         </div>
+=======
+    return (
+        <div>text 1</div>
+>>>>>>> 7c151c315c078c56c308bcd15c59a51f5054db88
     );
 }
 
