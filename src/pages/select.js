@@ -1,6 +1,10 @@
+import Table from "../components/table";
+
 function Select() {
     return (
-        <div></div>
+        <div>
+            <Table/>
+        </div>
     );
 }
 

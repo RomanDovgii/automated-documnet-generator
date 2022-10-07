@@ -5,7 +5,7 @@ export const AppRoute = {
     DOCUMENT: `/document`,
 };
 
-export const Documents = [
+export const documents = [
     {
         name: `Ходатойство о вызове свидетеля`,
         reason: `Вызов свидетеля на суд`,
